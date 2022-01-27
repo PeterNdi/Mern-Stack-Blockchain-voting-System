@@ -1,0 +1,11 @@
+.welcome-main h1{
+    background-color: #ddffff;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 6px;
+  border: 1px solid;
+}
+
+.welcome-sub-main img{
+    margin-left: 40%;
+}
